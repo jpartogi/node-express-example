@@ -8,6 +8,7 @@ primeFactorsOf = function(number) {
 		}
 		factor ++;
 	}
+
 	return factors;
 };
 
